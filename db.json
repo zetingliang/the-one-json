@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
+
+my-json-server.typicode.com/user/repo/posts/1
